@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sample-config-client
+
+env:
+    SPRING_PROFILES_ACTIVE: dev
